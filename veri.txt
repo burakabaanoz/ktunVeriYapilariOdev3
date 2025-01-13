@@ -1,0 +1,7 @@
+10	Gaye	Buket	Kargoda
+22	Yunus	Orhan	Yolda
+14	Maksut	Ayse	Kargoda
+34	Burak	Ahmet	Yolda
+12	Berkay	Omer	Kargoda
+67	Can	Nuray	Yolda
+89	Bulent	Ayaz	Kargoda
